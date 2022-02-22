@@ -7,5 +7,5 @@ function fibo(n) {
     return fibo(n - 1) + fibo(n - 2)
 }
 
-// 青蛙跳台阶
+// 青蛙跳台阶 oooo
 console.log(fibo(4));
